@@ -6,7 +6,7 @@
 - [Tools Used](#tools-used)  
 - [Data Cleaning & Preparation](#data-cleaning--preparation)  
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-- [Obejectives](#obejectives)
+- [Objectives](#objectives)
 - [Dashboard](#dashboard)
 - [Results & Findings](#results--findings)  
 - [Recommendations](#recommendations)  
@@ -33,7 +33,7 @@ EDA was performed to understand trends, distributions, and correlations. Key ste
 - Visualizing distributions using charts.  
 - Identifying outliers and missing patterns.  
 
-## Obejectives  
+## Objectives  
 The analysis focused on answering key business questions:  
 1. *Employee Satisfaction:* Evaluating overall job satisfaction.  
 2. *Gender Bias:* Checking for gender disparities in hiring, promotions, and pay.  
